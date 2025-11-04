@@ -186,7 +186,7 @@ Feel free to reach out:
 
 Email: ktf.sinamban@gmail.com
 
-Website: kristinesinamban.com
+Website: https://kristinesinamban.com/
 
 LinkedIn: \[Kristine Sinamban] (https://www.linkedin.com/in/kristine-sinamban/)
 
