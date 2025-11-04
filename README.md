@@ -1,0 +1,2 @@
+# Family-Income-Expenditure-Analysis-Philippines-
+This repository contains a data analysis project exploring the 'Filipino Family Income and Expenditure' dataset published by Francis Paul Flores (sourced from Kaggle). The goal is to extract meaningful insights, visualize trends, and derive actionable conclusions about how income and expenditure patterns vary across different socio‑economic groups.
