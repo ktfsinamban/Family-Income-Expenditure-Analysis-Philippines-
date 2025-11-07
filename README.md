@@ -71,13 +71,20 @@ What is the most used water supply in the Philippines?
 ├── data/
 
 │ ├── raw/ # original CSVs/ZIP or unmodified dataset
+
 ├── notebooks/
+
 │ ├── filename.ipynb
 ├── reports/
+
 │ ├── final\_reports\_Data analysis on Family Income & Expenditure Analysis │(Philippines).pdf
+
 │ └── final\_reports\_app.py
+
 ├── App images/
+
 │ └── Sample of Application Image.pdf
+
 └── README.md
 
 
